@@ -1,1 +1,6 @@
 Hello World! :)
+
+
+Rebase = rewrite the history , take the full history for all commits to the destination 
+
+Merge = take the last commit from local into the destination 
